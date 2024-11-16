@@ -1,2 +1,2 @@
 print(4+3)
-print(1+2)
+prinht(1+2)
